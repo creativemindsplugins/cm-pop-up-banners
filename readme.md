@@ -11,7 +11,7 @@
 
 **Make your WordPress website better for visitors by using easy-to-use popups that work well on all devices. Make your ads for products or services better with these flexible popups.**
 
-Our plugin lets you make different kinds of popups like ones with text, pictures, or videos. It has an instruments to make your own ad popups the way you want them. You can choose where to show your popups, and if you get the paid version, it's available to pick the exact post or page to show them on..
+Our plugin lets you make different kinds of popups like ones with text, pictures, or videos. It has tools to make your own ad popups the way you want them. You can choose where to show your popups - pick the exact posts or pages.
 
 ## Installation and Usage
 
@@ -22,18 +22,17 @@ Our plugin lets you make different kinds of popups like ones with text, pictures
 
 ### Usage instructions
 
-* Navigate to “Create New Campaign”
-* Enter the campaign’s “Title” and the “content” for one or more Advertisement Items
-* Select “Add Advertisement Item” to insert additional items as needed
-* Opt to “Display on all pages”
-* Hit “Save Changes”
-* Visit any page on your site
-* Observe the popup displaying the Advertisement Item
-* Dismiss the popup by selecting the “X” symbol
+* Navigate to “Add New Campaign”
+* Enter the campaign’s Title and the content for one or more popup items
+* Choose where to display a popup: on all pages, on homepage, or on specific posts or pages
+* Click “Publish”
+* Visit specified page
+* Observe the popup displaying the popup
+* Dismiss the popup by clicking the “X” symbol
 
 ## Popup Maker Plugin Premium Edition
 
-The [Premium versions of the Popup Maker Plugin](https://www.cminds.com/wordpress-plugins-library/cm-pop-up-banners-plugin-for-wordpress/) come packed with enhanced capabilities, including a form builder with support, sophisticated popup triggers, expanded campaign management options, detailed statistics, and a host of additional features.
+The [Premium versions of the Popup Maker Plugin](https://www.cminds.com/wordpress-plugins-library/cm-pop-up-banners-plugin-for-wordpress/) comes bundleded with enhanced capabilities, including a form builder, popup JS triggers, extended campaign management options, detailed statistics, and a host of additional features.
 
 ## Use Cases
 
@@ -42,7 +41,7 @@ The [Premium versions of the Popup Maker Plugin](https://www.cminds.com/wordpres
 * **Conversion** – Attract your site visitors by offering special discount codes on pages dedicated to certain categories like beauty items, legal services, or medical care.
 * **Lead Generation** – Place a “Join Us” popup with a built-in form that only appears to new visitors to grow your email list.
 * **Advertising** – Show a variety of AdSense ads based on set criteria. For those needing more robust ad features, the Advanced Ad Campaigns Manager and Server Plugin for WordPress is suggested.
-* **Multimedia Hub** – Place banners that include photos, collections, videos, and HTML content on any part of your website.
+* **Multimedia Hub** – Place banners that include media and HTML content on any part of your website.
 
 </details>
 
@@ -51,8 +50,8 @@ The [Premium versions of the Popup Maker Plugin](https://www.cminds.com/wordpres
 <details><summary> <b>Expand</b> </summary>
 
 * Initiate Popup Campaigns
-* Personalize popups using HTML, imagery, and video content
-* AdDesigner: Craft a unique popup style that aligns with your website’s design
+* Personalize popups using HTML, images, and video content
+* AdDesigner: Build a unique popup style that suits with your website’s design
 * Limit by Page/Post/Custom Post Types: Specify the pages or posts where your popup should be displayed
 
 </details>
